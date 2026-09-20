@@ -8,9 +8,9 @@ A hands-on collection of Jupyter notebooks exploring **classification algorithms
 
 | Notebook | What it covers |
 | --- | --- |
-| [`Classification_Metrics.ipynb`](Classification_Metrics.ipynb) | Why accuracy fails on imbalanced data; precision, recall, F1, ROC and AUC; confusion matrices; threshold tuning; a metric cheat sheet |
-| [`Logistic_Regression.ipynb`](Logistic_Regression.ipynb) | Intuition behind logistic regression, the sigmoid function, log loss, why MSE is not used, regularization, and hyperparameter tuning on a churn dataset |
-| [`KNN.ipynb`](KNN.ipynb) | K-Nearest Neighbors end to end: distance metrics, weighted KNN, bias-variance, outliers, KNN imputation, and handling imbalanced data (class weights, under/oversampling, SMOTE) |
+| Classification_Metrics.ipynb | Why accuracy fails on imbalanced data; precision, recall, F1, ROC and AUC; confusion matrices; threshold tuning; a metric cheat sheet |
+| Logistic Regression.ipynb | Intuition behind logistic regression, the sigmoid function, log loss, why MSE is not used, regularization, and hyperparameter tuning on a churn dataset |
+| KNN.ipynb | K-Nearest Neighbors end to end: distance metrics, weighted KNN, bias-variance, outliers, KNN imputation, and handling imbalanced data (class weights, under/oversampling, SMOTE) |
 
 ### Suggested reading order
 
